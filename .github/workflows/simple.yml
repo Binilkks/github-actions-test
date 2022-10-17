@@ -14,7 +14,7 @@ jobs:
            npm -v
        - name: phython Commands
          run: |
-           important platfrom
+           import platfrom
            print(platform.processor())
          shell: python      
            
